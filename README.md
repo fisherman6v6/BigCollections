@@ -1,5 +1,5 @@
 # BigCollections
-BigCollections C# library.
+C# library which allows to overcome size limitations for collections.
 
 ## Description
 
