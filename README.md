@@ -1,6 +1,6 @@
 # BigCollections
 C# library which allows to overcome size limitations for collections.
-
+BigArray and BigList classes are derived from the same name classes in [bio](https://github.com/dotnetbio/bio).
 ## Description
 
 TODO

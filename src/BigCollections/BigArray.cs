@@ -9,7 +9,6 @@ namespace BigCollections
 {
     /// <summary>
     /// BigArray class
-    /// https://github.dev/dotnetbio/bio/blob/master/Source/Bio.Core/BigArray.cs
     /// </summary>
     /// <typeparam name="T"></typeparam>
     public class BigArray<T> : IEnumerable<T>

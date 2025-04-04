@@ -5,7 +5,6 @@ using System.Collections.Generic;
 namespace BigCollections
 {
     /// <summary>
-    /// https://github.dev/dotnetbio/bio/blob/master/Source/Bio.Core/BigArray.cs
     /// Represents a strongly typed list of objects.
     /// Uses BigArray to store objects.
     /// </summary>
