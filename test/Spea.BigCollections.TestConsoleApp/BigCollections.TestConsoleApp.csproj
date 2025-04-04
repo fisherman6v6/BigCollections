@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Spea.BigCollections\BigCollections.csproj" />
+    <ProjectReference Include="..\..\src\BigCollections\BigCollections.csproj" />
   </ItemGroup>
 
 </Project>
